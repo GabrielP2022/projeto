@@ -1,0 +1,191 @@
+.fundo { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1580px;
+	height:1450px; 
+	position:absolute;
+	top: 0px;
+	left: 0px;
+}
+.cabecalho { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+	width:1580px;
+	height:101px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.logo { 
+	width:152px;
+	height:137px;
+	position:absolute;
+	left:20px;
+	top:-25px;
+	background-image:url(images/lgog_2.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.categorias { 
+	color:rgba(0, 0, 0, 1);
+	width:131px;
+	height:24px;
+	position:absolute;
+	left:204px;
+	top:38px;
+	font-family:Inter;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+}
+.segunda_borda_foto { 
+	width:900px;
+	height:700px;
+	left:300px;
+	top:-18px;
+	background-image:url(images/lgog_2.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.entrar { 
+	color:rgba(0, 0, 0, 1);
+	width:82px;
+	height:24px;
+	position:absolute;
+	left:1194px;
+	top:38px;
+	font-family:Inter;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+}
+.barra_pesquisa { 
+	background-color:rgb(255, 255, 255);
+	width:763px;
+	height:54px;
+	position:absolute;
+	left:415px;
+	top:23px;
+}
+.letra_pesquisa { 
+	color:gray;
+	width:309px;
+	height:24px;
+	position:absolute;
+	left:435px;
+	top:40px;
+	font-family:Inter;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+}
+.icone_pesquisa { 
+	width:39px;
+	height:38px;
+	position:absolute;
+	left:1119px;
+	top:33px;
+	background-image:url(images/icone_loupe_noir_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.botao_cadastrar { 
+	background-color:rgba(36.00000165402889, 254.00000005960464, 193.00000369548798, 1);
+	width:131px;
+	height:54px;
+	position:absolute;
+	left:1400px;
+	top:23px;
+	border-color: black;
+	border-width: 2px;
+	border-style: solid;
+
+}
+.cadastrar { 
+	color:rgba(0, 0, 0, 1);
+	width:126px;
+	height:24px;
+	position:absolute;
+	left:1407px;
+	top:38px;
+	font-family:Inter;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+	font-weight: bold;
+}
+.barra_menu { 
+	background-color:rgba(36.00000165402889, 254.00000005960464, 193.00000369548798, 1);
+	width:1580px;
+	height:63px;
+	position:absolute;
+	left:0px;
+	top:136px;
+}
+.home { 
+	color:rgba(0, 0, 0, 1);
+	width:107px;
+	height:50px;
+	position:absolute;
+	left:414px;
+	top:143px;
+	font-family:Calistoga;
+	text-align:left;
+	font-size:36px;
+	letter-spacing:0;
+}
+.cursos { 
+	color:rgba(0, 0, 0, 1);
+	width:145px;
+	height:52px;
+	position:absolute;
+	left:671px;
+	top:143px;
+	font-family:Calistoga;
+	text-align:left;
+	font-size:36px;
+	letter-spacing:0;
+}
+.sobre_nos { 
+	color:rgba(0, 0, 0, 1);
+	width:207px;
+	height:52px;
+	position:absolute;
+	left:952px;
+	top:143px;
+	font-family:Calistoga;
+	text-align:left;
+	font-size:36px;
+	letter-spacing:0;
+}
+
+.titulo_marketing { 
+	color:rgba(0, 0, 0, 1);
+	width:682px;
+	height:48px;
+	position:absolute;
+	left:43px;
+	top:750px;
+	font-family:Inter;
+	text-align:left;
+	font-size:40px;
+	letter-spacing:0;
+}
+.texto_marketing { 
+	color:rgba(87.12500050663948, 86.3989582657814, 86.3989582657814, 1);
+	width:1033px;
+	height:277px;
+	position:absolute;
+	left:43px;
+	top:1023px;
+	font-family:Inter;
+	text-align:left;
+	/*font-size:Symbol(figma.mixed)px;*/
+	letter-spacing:0;
+}
+.nota { 
+	color:rgba(0, 0, 0, 1);
+	width:500px;
+	height:500px;
+	position:absolute;
+	left:954px;
+	top:952px;
+}
